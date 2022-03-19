@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./github-explorer.gif" alt="01 Github Explorer" />
+  <!-- <img src="" alt="01 Github Explorer" /> -->
 
   &#xa0;
 
